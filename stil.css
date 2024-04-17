@@ -1,0 +1,14 @@
+body {
+    background-color: #780c0c;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color :rgb(172, 111, 228)
+}
+p {
+    color:aqua
+}
+img {
+    width: 50%;
+    height: auto;
+}
